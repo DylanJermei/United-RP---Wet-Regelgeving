@@ -100,8 +100,10 @@
 #### Artikel 12
 
 1. Als daders van een strafbaar feit worden gestraft:
-   a. zij die het feit plegen, doen plegen of medeplegen;
-   b. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding het feit uitlokken.
+      <ol type="a">
+     <li>zij die het feit plegen, doen plegen of medeplegen;</li>
+     <li>zij die door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding het feit uitlokken.</li>
+   </ol>
 2. Van medeplegen is sprake indien twee of meer personen bewust en nauw samenwerken bij het plegen van een strafbaar feit.
 
 ---
@@ -120,10 +122,12 @@
 #### Artikel 14
 
 1. De straffen die kunnen worden opgelegd zijn:
-   a. gevangenisstraf;
-   b. taakstraf;
-   c. geldboete;
-   d. bijkomende straffen.
+      <ol type="a">
+     <li>Gevangenisstraf;</li>
+     <li>Taakstraf;</li>
+     <li>Geldboete;</li>
+     <li>Bijkomende straffen;</li>
+   </ol>
 2. Straffen kunnen afzonderlijk of gecombineerd worden opgelegd.
 
 ---
@@ -152,19 +156,20 @@
 #### Artikel 18
 
 1. Bij het bepalen van de straf wordt rekening gehouden met:
-   a. de ernst van het feit;
-   b. de omstandigheden;
-   c. de persoon van de verdachte;
-   d. eerdere veroordelingen;
-   e. het aantal slachtoffers;
-   f. herhaling van het feit.
+      <ol type="a">
+     <li>De ernst van het feit;</li>
+     <li>De omstandigheden;</li>
+     <li>Het aantal slachtoffers;</li>
+     <li>Herhaling van het feit;</li>
+   </ol>
 
 ---
 
 #### Artikel 19
 
-1. De maximale gevangenisstraf bedraagt 400 maanden.
-2. Overschrijding kan worden omgezet in een geldboete.
+1. De maximale gevangenisstraf bedraagt 300 maanden.
+2. Indien de totale strafbepaling boven de 300 maanden komt kan deze worden omgezet tot een bekeuring.
+3. Voor de omzetting kunnen elke 5 maanden worden omgezet in een bedrag van €1.000
 
 ---
 
@@ -179,11 +184,15 @@
 #### Artikel 21
 
 1. Strafbare feiten verjaren als volgt:
-   a. 1 t/m 150 maanden → 7 dagen
-   b. 151 t/m 250 maanden → 14 dagen
-2. Niet verjaren:
-   a. feiten vanaf 251 maanden
-   b. feiten zonder gevangenisstraf
+      <ol type="a">
+     <li>1 t/m 150 maanden → 7 dagen;</li>
+     <li>151 t/m 250 maanden → 14 dagen;</li>
+   </ol>
+2. Strafbare feiten die niet verjaren:
+      <ol type="a">
+     <li>feiten vanaf 251 maanden;</li>
+     <li>feiten zonder gevangenisstraf;</li>
+   </ol>
 3. Rechtszaken kunnen verjaring verlengen tot 42 dagen.
 
 ---
@@ -192,9 +201,9 @@
 
 #### Artikel 22
 
-1. Een gevangenisstraf kan leiden tot een strafblad.
+1. Indien er een gevangenis straf wordt uitgedeeld, krijgt de verdachte automatisch een strafblad.
 2. Dit blijft één maand geregistreerd.
-3. Nieuwe feiten resetten deze termijn.
+3. Na één maand wordt er een automatisch een eerherstel uitgevoerd.
 4. Het strafblad kan gevolgen hebben voor functies en vergunningen.
 
 ---
