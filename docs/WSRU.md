@@ -295,13 +295,15 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel I – Misdrijven tegen de openbare orde
 
+### Artikel ?? (135SR)
+1. Schuldig is een persoon die kennis draagt van een strafbare samenspanning, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, het opzettelijk nalaat daarvan tijdig kennis tegeve aan de politie.
 
 
 
-|                             | Taakstraf | Boete  |
-| --------------------------- | --------- | ------ |
-| **Eerste veroordeling**     | 20 uur    | €1.500 |
-| **Tweede veroordeling**     | 30 uur    | €2.500 |
-| **Meerdere veroordelingen** | 40 uur    | €3.500 |
+|                             | Taakstraf | Celstraf   | Boete  |
+| --------------------------- | --------- | ---------- | ------ |
+| **Eerste veroordeling**     | -         | -          | €2.500 |
+| **Tweede veroordeling**     | 30 uur    | -          | €2.500 |
+| **Meerdere veroordelingen** | -         | 10 Maanden | €3.500 |
 
 
