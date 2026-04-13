@@ -323,16 +323,30 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? -  (SR)
-1. Schuldig is een persoon 
+### Artikel ??a - Kraken van panden (138aSR)
+1. Schuldig is een persoon die in een woning of gebouw, waarvan geen gebruik wordt gemaakt, binnendringt of zich daar bevind.
+2. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
 
 
 
 |                             | Taakstraf | Celstraf   | Boete   |
 | --------------------------- | --------- | ---------- | ------- |
-| **Eerste veroordeling**     | -         | -          | €5.000  |
-| **Tweede veroordeling**     | -         | -          | €8.500  |
-| **Meerdere veroordelingen** | -         | -          | €10.000 |
+| **Eerste veroordeling**     | 15 uur    | -          | €1.500  |
+| **Tweede veroordeling**     | 20 uur    | -          | €2.000  |
+| **Meerdere veroordelingen** | 35 uur    | -          | €3.000  |
+
+---
+### Artikel ??aa - Betreden van afgesloten transportzones (138aaSR)
+1. Schuldig is een persoon die zonder voorafgaand schriftelijke toestemming verblijft in een haven, luchthaven, of spoorweg gelegen besloten plaats voor distributie, opslag of overslag van goederen.
+2. De schuldige die zich toegang verschaft tot de in het eerslte lid vernoemde plaats door middel van een valse of niet aan betrokkene toebehorende toegangspas, een valse hoedanigheid of misleiding van een persoon, belast met bewaking van die plaats kan een strafverhoging krijgen van 10%.
+
+
+
+|                             | Taakstraf | Celstraf   | Boete    |
+| --------------------------- | --------- | ---------- | -------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €5.000   |
+| **Tweede veroordeling**     | 30 uur    | -          | €8.000   |
+| **Meerdere veroordelingen** | 50 uur    | -          | €15.000  |
 
 ---
 
