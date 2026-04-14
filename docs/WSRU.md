@@ -506,7 +506,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 ### Artikel ?? - Zware mishandeling
 1. Schuldig is een persoon die opzettelijk een ander zwaar lichamelijk letsel toebrengt.
 2. Onder zwaar lichamelijk letsel wordt verstaan letsel dat van blijvende aard is of dat ernstig medisch ingrijpen vereist.
-3. Indien de dader gebruik maakt van een wapen of voorwerp, kan de straf met 33% worden verhoogd.
+
 
 |                             | Taakstraf | Celstraf    | Boete     |
 | --------------------------- | --------- | ----------- | --------- |
@@ -563,7 +563,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Diefstal met braak (inbraak)
+### Artikel ?? - Diefstal met braak
 1. Schuldig is een persoon die zich toegang verschaft tot een gebouw of terrein door braak, verbreking of inklimming met het oogmerk diefstal te plegen.
 
 |                             | Taakstraf | Celstraf   | Boete   |
@@ -574,7 +574,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Diefstal met geweld (beroving)
+### Artikel ?? - Diefstal met geweld
 1. Schuldig is een persoon die een goed wegneemt en daarbij geweld of bedreiging met geweld gebruikt tegen personen.
 
 |                             | Taakstraf | Celstraf   | Boete     |
