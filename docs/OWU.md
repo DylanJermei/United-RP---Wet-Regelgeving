@@ -4,8 +4,8 @@
 | Citeertitel      | OWU                         |
 | Rechtsgebied     | Strafrecht                  |
 | Vastgesteld door | Het gerechtshof te Universe |
-| Inwerkingtreding | 01-04-2026                  |
-| Laatst gewijzigd | 14-04-2026                  |
+| Inwerkingtreding | 15-04-2026                  |
+| Laatst gewijzigd | 15-04-2026                  |
 | Versie           | 1.0                         |
 | Status           | Geldend                     |
 
@@ -163,3 +163,7 @@ In deze wet wordt verstaan onder:
 ### Artikel 9
 
 Deze wet wordt aangehaald als: Opiumwet Universe (OWU).
+
+#### Artikel 10
+
+Dit wetboek treedt in werking op de bovenstaande vermelde datum.

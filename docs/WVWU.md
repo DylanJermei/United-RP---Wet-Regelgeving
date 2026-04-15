@@ -146,12 +146,19 @@ In deze wet wordt verstaan onder:
    * binnen bebouwdekom: 50 km/h;
    * overige wegen: 80 km/h;
 
-(boetetabellen blijven zoals eerder)
 
 ---
 
+### Artikel 9 - Overige bekeuringen
+
 ## Hoofdstuk V – Slotbepalingen
 
-### Artikel 9
+### Artikel 10
 
 Deze wet wordt aangehaald als: Wegenverkeerswet Universe (WVWU).
+
+---
+
+#### Artikel 11
+
+Dit wetboek treedt in werking op de bovenstaande vermelde datum.

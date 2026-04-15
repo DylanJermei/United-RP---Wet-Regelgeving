@@ -4,7 +4,7 @@
 | Citeertitel      | WWMU                            |
 | Rechtsgebied     | Strafrecht                      |
 | Vastgesteld door | Het gerechtshof te Universe     |
-| Inwerkingtreding | 01-04-2026                      |
+| Inwerkingtreding | 15-04-2026                      |
 | Laatst gewijzigd | 15-04-2026                      |
 | Versie           | 1.0                             |
 | Status           | Geldend                         |
@@ -270,3 +270,9 @@ Deze wet treedt in werking op 1 april 2026.
 ### Artikel 14
 
 Deze wet wordt aangehaald als: Wet wapens en munitie Universe (WWMU).
+
+---
+
+#### Artikel 15
+
+Dit wetboek treedt in werking op de bovenstaande vermelde datum.

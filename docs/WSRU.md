@@ -4,8 +4,8 @@
 | Citeertitel      | WSRU                            |
 | Rechtsgebied     | Strafrecht                      |
 | Vastgesteld door | Het gerechtshof te Universe     |
-| Inwerkingtreding | 01-04-2026                      |
-| Laatst gewijzigd | 13-04-2026                      |
+| Inwerkingtreding | 15-04-2026                      |
+| Laatst gewijzigd | 15-04-2026                      |
 | Versie           | 1.0                             |
 | Status           | Geldend                         |
 
@@ -173,6 +173,14 @@
 
 ---
 
+#### Artikel 19a – Verplichte rechterlijke toetsing
+
+1. Indien de op te leggen straf een totale duur van meer dan 150 maanden gevangenisstraf bedraagt, kan deze niet direct door opsporingsambtenaren worden opgelegd.
+2. In dat geval dient de zaak te worden voorgelegd aan een bevoegde rechterlijke instantie.
+3. De verdachte wordt in afwachting van de behandeling door de rechter in voorlopige hechtenis geplaatst, overeenkomstig de bepalingen in dit wetboek.
+
+---
+
 #### Artikel 20
 
 1. Binnen Universe wordt geen onderscheid gemaakt tussen minderjarigen en meerderjarigen.
@@ -262,9 +270,35 @@
 
 ---
 
-### Titel IX – Strafverzwarende en strafverminderende omstandigheden
+### Titel IX – Vrijheidsbeneming en voorlopige hechtenis
 
-#### Artikel 30
+#### Artikel 30 – Ophouden voor onderzoek
+
+1. Een verdachte kan na aanhouding worden opgehouden voor onderzoek voor een maximale duur van 1 dag.
+2. Deze termijn wordt gebruikt voor identificatie, eerste verhoor en vaststelling van de feiten.
+
+---
+
+#### Artikel 31 – Voorlopige hechtenis
+
+1. Indien het onderzoek dit vereist, kan de verdachte aansluitend in voorlopige hechtenis worden geplaatst voor een maximale duur van 2 dagen.
+2. Voorlopige hechtenis is slechts toegestaan indien:
+      <ol type="a">
+     <li>sprake is van een ernstig strafbaar feit; of </li>
+     <li>er risico bestaat op vlucht, herhaling of belemmering van het onderzoek.</li>
+   </ol>
+3. Indien de zaak valt onder artikel 19a, kan de voorlopige hechtenis worden verlengd tot maximaal 7 dagen, in afwachting van behandeling door de rechter.
+4. Na het verstrijken van deze termijnen wordt de verdachte:
+      <ol type="a">
+     <li>vrijgelaten; of  </li>
+     <li>voorgeleid aan een bevoegde rechterlijke instantie.</li>
+   </ol>
+
+---
+
+### Titel X – Strafverzwarende en strafverminderende omstandigheden
+
+#### Artikel 32
 
 1. Straf wordt verhoogd met 33% indien het slachtoffer een ambtenaar in fuctie betreft.
 2. Straf wordt verlaagd met 33% bij poging tot een misdrijf.
@@ -273,17 +307,17 @@
 
 ---
 
-### Titel X – Slotbepalingen
+### Titel XI – Slotbepalingen
 
-#### Artikel 31
+#### Artikel 33
 
 Dit wetboek wordt aangehaald als: Wetboek van Strafrecht Universe (WSRU).
 
 ---
 
-#### Artikel 32
+#### Artikel 34
 
-Dit wetboek treedt in werking op een door de bevoegde autoriteit vastgestelde datum.
+Dit wetboek treedt in werking op de bovenstaande vermelde datum.
 
 ---
 
@@ -294,7 +328,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel I – Misdrijven tegen de openbare orde
 
-### Artikel ?? - Opzettelijk nalaten misdrijf te melden
+### Artikel 35 - Opzettelijk nalaten misdrijf te melden
 1. Schuldig is een persoon die kennis draagt van een strafbare samenspanning, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, het opzettelijk nalaat daarvan tijdig kennis tegeve aan de politie.
 
 
@@ -307,7 +341,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Huisvredebreuk
+### Artikel 36 - Huisvredebreuk
 1. Schuldig is een persoon die in een woning, besloten lokaal, of erf bij een ander ingebruik binnendringt, of zich niet verwijderd op uitdrukkelijke vraag van de eigenaar.
 2. Zij die zichzelf toegangverschaft door braak, inklimming, gebruik valse sleutels, gebruik vals uniform, of wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
@@ -322,7 +356,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ??a - Kraken van panden
+### Artikel 36a - Kraken van panden
 1. Schuldig is een persoon die in een woning of gebouw, waarvan geen gebruik wordt gemaakt, binnendringt of zich daar bevind.
 2. Indien hij bedreigingen uit of vrees aanjaagt wordt de straf verhoogt met 33%.
 
@@ -336,7 +370,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ??aa - Betreden van afgesloten transportzones
+### Artikel 36aa - Betreden van afgesloten transportzones
 1. Schuldig is een persoon die zonder voorafgaand schriftelijke toestemming verblijft in een haven, luchthaven, of spoorweg gelegen besloten plaats voor distributie, opslag of overslag van goederen.
 2. De schuldige die zich toegang verschaft tot de in het eerslte lid vernoemde plaats door middel van een valse of niet aan betrokkene toebehorende toegangspas, een valse hoedanigheid of misleiding van een persoon, belast met bewaking van die plaats kan een strafverhoging krijgen van 10%.
 
@@ -350,7 +384,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Lidmaatschap van criminele organisatie
+### Artikel 37 - Lidmaatschap van criminele organisatie
 1. Schuldig is een persoon die deelneemt aan een organisatie die tot oogmerk heeft het plegen van misdrijven.
 2. Schuldig is een persoon die zijn werkzaamheid binnen een organisatie die bij onheroepelijke gerechterlijke beslissing verboden is verklaard voortzet.
 3. Ten aanzien van de oprichters, leiders, of bestuurders van organisaties zoals vermeld in lid 1, kunnen de straffen met 33% worden verhoogt.
@@ -365,7 +399,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Openlijke geweldpleging
+### Artikel 38 - Openlijke geweldpleging
 1. Schuldig zijn personen die in vereniging openlijk geweld plegen tegen personen of goederen.
 2. Onder openlijk geweld wordt verstaan het in het openbaar en in groepsverband gebruiken van geweld.
 
@@ -381,7 +415,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel II – Misdrijven tegen het openbaar gezag
 
-### Artikel ?? - Omkoping van ambtenaar
+### Artikel 39 - Omkoping van ambtenaar
 1. Schuldig is een persoon die een ambtenaar een gift, belofte of dienst aanbiedt met het oogmerk om hem te bewegen in zijn functie iets te doen of na te laten.
 2. Schuldig is een persoon die een feit zoals bedoeld in lid 1 pleegt jegens een persoon in het vooruitzicht van een dienstbetrekking binnen de overheid.
 
@@ -393,7 +427,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 | **Meerdere veroordelingen** | -         | 50 Maanden | €20.000  |
 
 ---
-### Artikel ?? - Wederspannigheid
+### Artikel 40 - Wederspannigheid
 1. Schuldig is een persoon die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar in de rechtmatige uitoefening van zijn functie.
 2. Onder wederspannigheid wordt mede verstaan het verzetten tegen personen die de ambtenaar ondersteunen.
 
@@ -407,7 +441,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Niet voldoen aan ambtelijk bevel
+### Artikel 41 - Niet voldoen aan ambtelijk bevel
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering, gedaan door een bevoegde ambtenaar.
 2. Schuldig is een persoon die een handeling van een ambtenaar, uitgevoerd in het kader van zijn functie, belemmert, verhindert of verijdelt.
 3. Onder ambtenaar wordt mede verstaan een persoon belast met een openbare dienst.
@@ -422,7 +456,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Valse aangifte
+### Artikel 42 - Valse aangifte
 1. Schuldig is een persoon die aangifte of klacht doet van een strafbaar feit, terwijl hij weet dat dit feit niet gepleegd is.
 
 
@@ -435,7 +469,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Belemmering van justitie
+### Artikel 43 - Belemmering van justitie
 1. Schuldig is een persoon die opzettelijk een verdachte of schuldige van een misdrijf helpt bij het ontkomen aan opsporing of aanhouding.
 2. Schuldig is een persoon die opzettelijk informatie verstrekt of handelingen verricht om inbeslagname van bewijsmateriaal te voorkomen of te belemmeren.
 
@@ -451,7 +485,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel III – Misdrijven tegen de persoonlijke vrijheid
 
-### Artikel ?? - Gijzeling
+### Artikel 44 - Gijzeling
 1. Schuldig is een persoon die een ander wederrechtelijk van de vrijheid berooft met het doel een ander te dwingen iets te doen of na te laten.
 
 
@@ -464,7 +498,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Dwang
+### Artikel 45 - Dwang
 1. Schuldig is een persoon die een ander door geweld, bedreiging of andere feitelijkheden dwingt iets te doen, niet te doen of te dulden
 
 
@@ -479,7 +513,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel IV – Misdrijven tegen het leven en de lichamelijke integriteit
 
-### Artikel ?? - Bedreiging
+### Artikel 46 - Bedreiging
 1. Schuldig is een persoon die een ander mondeling, schriftelijk of door feitelijkheden bedreigt met enig misdrijf tegen het leven of met zware mishandeling.
 2. Onder bedreiging wordt mede verstaan het tonen van een wapen of voorwerp met het kennelijke doel vrees aan te jagen.
 
@@ -491,7 +525,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Mishandeling
+### Artikel 47 - Mishandeling
 1. Schuldig is een persoon die opzettelijk een ander pijn of letsel toebrengt.
 2. Onder mishandeling wordt mede verstaan het herhaaldelijk of langdurig fysiek geweld gebruiken zonder zwaar letsel te veroorzaken.
 
@@ -503,7 +537,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Zware mishandeling
+### Artikel 48 - Zware mishandeling
 1. Schuldig is een persoon die opzettelijk een ander zwaar lichamelijk letsel toebrengt.
 2. Onder zwaar lichamelijk letsel wordt verstaan letsel dat van blijvende aard is of dat ernstig medisch ingrijpen vereist.
 
@@ -516,7 +550,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Doodslag
+### Artikel 49 - Doodslag
 1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
 
 |                             | Taakstraf | Celstraf     | Boete     |
@@ -527,7 +561,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Moord
+### Artikel 50 - Moord
 1. Schuldig is een persoon die opzettelijk en met voorbedachte rade een ander van het leven berooft.
 2. Onder voorbedachte rade wordt verstaan dat de dader tijd en gelegenheid heeft gehad om over zijn daad na te denken.
 
@@ -539,7 +573,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Dood door schuld
+### Artikel 51 - Dood door schuld
 1. Schuldig is een persoon die door schuld of nalatigheid de dood van een ander veroorzaakt.
 
 |                             | Taakstraf | Celstraf   | Boete     |
@@ -552,7 +586,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ## Titel V – Misdrijven tegen eigendom en vermogen
 
-### Artikel ?? - Diefstal
+### Artikel 52 - Diefstal
 1. Schuldig is een persoon die een goed dat aan een ander toebehoort wegneemt met het oogmerk het zich wederrechtelijk toe te eigenen.
 
 |                             | Taakstraf | Celstraf   | Boete   |
@@ -563,7 +597,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Diefstal met braak
+### Artikel 53 - Diefstal met braak
 1. Schuldig is een persoon die zich toegang verschaft tot een gebouw of terrein door braak, verbreking of inklimming met het oogmerk diefstal te plegen.
 
 |                             | Taakstraf | Celstraf   | Boete   |
@@ -574,7 +608,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Diefstal met geweld
+### Artikel 54 - Diefstal met geweld
 1. Schuldig is een persoon die een goed wegneemt en daarbij geweld of bedreiging met geweld gebruikt tegen personen.
 
 |                             | Taakstraf | Celstraf   | Boete     |
@@ -585,7 +619,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Afpersing
+### Artikel 55 - Afpersing
 1. Schuldig is een persoon die een ander door geweld of bedreiging dwingt tot het afgeven van een goed.
 
 |                             | Taakstraf | Celstraf   | Boete     |
@@ -596,7 +630,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Heling
+### Artikel 56 - Heling
 1. Schuldig is een persoon die een goed verwerft, voorhanden heeft of overdraagt, terwijl hij weet of redelijkerwijs moet vermoeden dat dit door misdrijf is verkregen.
 
 |                             | Taakstraf | Celstraf   | Boete   |
@@ -607,7 +641,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Oplichting
+### Artikel 57 - Oplichting
 1. Schuldig is een persoon die door listige kunstgrepen, valse hoedanigheid of misleiding een ander beweegt tot afgifte van een goed.
 
 |                             | Taakstraf | Celstraf   | Boete     |
@@ -618,7 +652,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Verduistering
+### Artikel 58 - Verduistering
 1. Schuldig is een persoon die opzettelijk een goed dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toe-eigent.
 
 |                             | Taakstraf | Celstraf   | Boete     |
@@ -629,7 +663,7 @@ De in dit boek omschreven feiten worden als misdrijven aangemerkt.
 
 ---
 
-### Artikel ?? - Vernieling
+### Artikel 59 - Vernieling
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort beschadigt, vernietigt of onbruikbaar maakt.
 
 |                             | Taakstraf | Celstraf   | Boete   |
