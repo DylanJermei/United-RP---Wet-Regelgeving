@@ -1,99 +1,78 @@
-| Kenmerk          | Waarde                          |
-| ---------------- | ------------------------------- |
-| Officiële naam   | Opiumwet Universe               |
-| Citeertitel      | OWU                             |
-| Rechtsgebied     | Strafrecht                      |
-| Inwerkingtreding | 01-04-2026                      |
-| Versie           | 1.0                             |
-| Status           | Geldend                         |
+| Kenmerk          | Waarde                      |
+| ---------------- | --------------------------- |
+| Officiële naam   | Opiumwet Universe           |
+| Citeertitel      | OWU                         |
+| Rechtsgebied     | Strafrecht                  |
+| Vastgesteld door | Het gerechtshof te Universe |
+| Inwerkingtreding | 01-04-2026                  |
+| Laatst gewijzigd | 14-04-2026                  |
+| Versie           | 1.0                         |
+| Status           | Geldend                     |
 
 ---
+
+# Opiumwet Universe (OWU)
 
 ## Hoofdstuk I – Algemene bepalingen
 
 ### Artikel 1 – Begripsbepalingen
 
-1. Onder middelen wordt verstaan de stoffen vermeld op lijst I en lijst II.
-2. Onder aanwezig hebben wordt verstaan het beschikken over middelen, ongeacht de plaats of hoeveelheid.
-3. Onder bereiden, bewerken en verwerken wordt verstaan iedere handeling gericht op het vervaardigen van middelen.
-4. Onder verkopen, afleveren, verstrekken en vervoeren wordt verstaan iedere vorm van overdracht van middelen.
-5. Onder invoer en uitvoer wordt verstaan het binnen of buiten het grondgebied brengen van middelen.
-6. Onder een eenheid wordt verstaan een gebruikshoeveelheid van een middel.
+In deze wet wordt verstaan onder:
+
+1. middelen: de stoffen vermeld op lijst I en lijst II;
+2. aanwezig hebben: het beschikken over middelen, ongeacht de plaats waar deze zich bevinden;
+3. bereiden, bewerken en verwerken: iedere handeling gericht op het vervaardigen of veranderen van middelen;
+4. verkopen, afleveren, verstrekken en vervoeren: iedere vorm van overdracht of verplaatsing van middelen;
+5. eenheid: een gebruikshoeveelheid van een middel.
 
 ---
 
 ## Hoofdstuk II – Indeling van middelen
 
-### Artikel 2 – Lijst I
+### Artikel 2 – Lijst I (harddrugs)
 
-1. Tot lijst I behoren middelen die een onaanvaardbaar risico vormen voor de volksgezondheid.
+1. Tot lijst I behoren middelen die een ernstig risico vormen voor de volksgezondheid.
 2. Hieronder vallen onder meer:
-   - cocaïne;
-   - heroïne;
-   - amfetamine;
-   - MDMA (XTC);
-   - LSD.
+
+   * cocaïne;
+   * heroïne;
+   * amfetamine;
+   * MDMA;
+   * LSD.
 
 ---
 
-### Artikel 3 – Lijst II
+### Artikel 3 – Lijst II (softdrugs)
 
-1. Tot lijst II behoren middelen met een minder groot risico voor de volksgezondheid.
+1. Tot lijst II behoren middelen met een beperkter risico voor de volksgezondheid.
 2. Hieronder vallen onder meer:
-   - cannabis (wiet en hasj);
-   - paddo’s;
-   - kalmeringsmiddelen.
+
+   * cannabis (wiet en hasj);
+   * paddo’s;
+   * kalmeringsmiddelen.
 
 ---
 
-## Hoofdstuk III – Verboden handelingen
+## Hoofdstuk III – Hoeveelheden
 
-### Artikel 4 – Verboden handelingen lijst I
-
-1. Het is verboden middelen van lijst I:
-
-   <ol type="a">
-     <li>binnen of buiten het grondgebied te brengen;</li>
-     <li>te bereiden, bewerken, verwerken of vervaardigen;</li>
-     <li>te verkopen, afleveren, verstrekken of vervoeren; en</li>
-     <li>aanwezig te hebben.</li>
-   </ol>
-
----
-
-### Artikel 5 – Verboden handelingen lijst II
-
-1. Het is verboden middelen van lijst II:
-
-   <ol type="a">
-     <li>binnen of buiten het grondgebied te brengen;</li>
-     <li>te bereiden, bewerken, verwerken of vervaardigen;</li>
-     <li>te verkopen, afleveren, verstrekken of vervoeren; en</li>
-     <li>aanwezig te hebben.</li>
-   </ol>
-
----
-
-## Hoofdstuk IV – Hoeveelheden
-
-### Artikel 6 – Hoeveelheden
+### Artikel 4 – Hoeveelheden
 
 1. Onder een gebruikershoeveelheid wordt verstaan:
-   
+
    <ol type="a">
      <li>lijst I: maximaal 5 eenheden;</li>
-     <li>lijst II: maximaal 20 eenheden.</li>
+     <li>lijst II: maximaal 10 eenheden.</li>
    </ol>
 
 2. Onder een handelshoeveelheid wordt verstaan:
-   
+
    <ol type="a">
      <li>lijst I: 6 tot en met 25 eenheden;</li>
-     <li>lijst II: 21 tot en met 100 eenheden.</li>
+     <li>lijst II: 11 tot en met 100 eenheden.</li>
    </ol>
 
 3. Onder een grote hoeveelheid wordt verstaan:
-   
+
    <ol type="a">
      <li>lijst I: meer dan 25 eenheden;</li>
      <li>lijst II: meer dan 100 eenheden.</li>
@@ -103,76 +82,84 @@
 
 ---
 
-## Hoofdstuk V – Strafbepalingen
+## Hoofdstuk IV – Strafbare feiten
 
-### Artikel 7 – Aanwezig hebben
+### Artikel 5 – Aanwezig hebben
 
-|                             | Taakstraf | Celstraf   | Boete     |
-| --------------------------- | --------- | ---------- | --------- |
-| **Lijst I – 1e**            | -         | 20 Maanden | €10.000   |
-| **Lijst I – 2e**            | -         | 35 Maanden | €20.000   |
-| **Lijst I – meerdere**      | -         | 50 Maanden | €30.000   |
-| **Lijst II – 1e**           | 20 uur    | -          | €3.000    |
-| **Lijst II – 2e**           | 30 uur    | -          | €6.000    |
-| **Lijst II – meerdere**     | -         | 15 Maanden | €10.000   |
+1. Schuldig is een persoon die middelen van lijst I aanwezig heeft.
 
----
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | 20 Maanden | €10.000 |
+| **Tweede veroordeling**     | -         | 35 Maanden | €20.000 |
+| **Meerdere veroordelingen** | -         | 50 Maanden | €30.000 |
 
-### Artikel 8 – Handel
+2. Schuldig is een persoon die middelen van lijst II aanwezig heeft.
 
-|                             | Taakstraf | Celstraf   | Boete     |
-| --------------------------- | --------- | ---------- | --------- |
-| **Lijst I – 1e**            | -         | 40 Maanden | €20.000   |
-| **Lijst I – 2e**            | -         | 60 Maanden | €30.000   |
-| **Lijst I – meerdere**      | -         | 80 Maanden | €50.000   |
-| **Lijst II – 1e**           | 25 uur    | -          | €5.000    |
-| **Lijst II – 2e**           | -         | 20 Maanden | €10.000   |
-| **Lijst II – meerdere**     | -         | 30 Maanden | €20.000   |
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 20 uur    | -          | €3.000  |
+| **Tweede veroordeling**     | 30 uur    | -          | €6.000  |
+| **Meerdere veroordelingen** | -         | 15 Maanden | €10.000 |
 
 ---
 
-### Artikel 9 – Productie
+### Artikel 6 – Handel in middelen
 
-|                             | Taakstraf | Celstraf   | Boete     |
-| --------------------------- | --------- | ---------- | --------- |
-| **Lijst I – 1e**            | -         | 50 Maanden | €25.000   |
-| **Lijst I – 2e**            | -         | 70 Maanden | €35.000   |
-| **Lijst I – meerdere**      | -         | 90 Maanden | €50.000   |
-| **Lijst II – 1e**           | -         | 20 Maanden | €7.500    |
-| **Lijst II – 2e**           | -         | 35 Maanden | €15.000   |
-| **Lijst II – meerdere**     | -         | 50 Maanden | €25.000   |
+1. Schuldig is een persoon die middelen van lijst I verkoopt, aflevert, verstrekt of vervoert.
 
----
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | 40 Maanden | €20.000 |
+| **Tweede veroordeling**     | -         | 60 Maanden | €30.000 |
+| **Meerdere veroordelingen** | -         | 80 Maanden | €50.000 |
 
-### Artikel 10 – Invoer en uitvoer
+2. Schuldig is een persoon die middelen van lijst II verkoopt, aflevert, verstrekt of vervoert.
 
-|                             | Taakstraf | Celstraf    | Boete     |
-| --------------------------- | --------- | ----------- | --------- |
-| **Lijst I – 1e**            | -         | 60 Maanden  | €30.000   |
-| **Lijst I – 2e**            | -         | 80 Maanden  | €40.000   |
-| **Lijst I – meerdere**      | -         | 100 Maanden | €60.000   |
-| **Lijst II – 1e**           | -         | 25 Maanden  | €10.000   |
-| **Lijst II – 2e**           | -         | 40 Maanden  | €20.000   |
-| **Lijst II – meerdere**     | -         | 60 Maanden  | €30.000   |
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | 25 uur    | -          | €5.000  |
+| **Tweede veroordeling**     | -         | 20 Maanden | €10.000 |
+| **Meerdere veroordelingen** | -         | 30 Maanden | €20.000 |
 
 ---
 
-## Hoofdstuk VI – Strafverzwarende omstandigheden
+### Artikel 7 – Productie van middelen
 
-### Artikel 11
+1. Schuldig is een persoon die middelen van lijst I bereidt, bewerkt, verwerkt of vervaardigt.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | 50 Maanden | €25.000 |
+| **Tweede veroordeling**     | -         | 70 Maanden | €35.000 |
+| **Meerdere veroordelingen** | -         | 90 Maanden | €50.000 |
+
+2. Schuldig is een persoon die middelen van lijst II bereidt, bewerkt, verwerkt of vervaardigt.
+
+|                             | Taakstraf | Celstraf   | Boete   |
+| --------------------------- | --------- | ---------- | ------- |
+| **Eerste veroordeling**     | -         | 20 Maanden | €7.500  |
+| **Tweede veroordeling**     | -         | 35 Maanden | €15.000 |
+| **Meerdere veroordelingen** | -         | 50 Maanden | €25.000 |
+
+---
+
+## Hoofdstuk V – Strafverzwarende omstandigheden
+
+### Artikel 8
 
 1. De straf wordt verhoogd met 33% indien:
 
    <ol type="a">
-     <li>sprake is van een grote hoeveelheid als bedoeld in artikel 6;</li>
-     <li>het feit in georganiseerd verband wordt gepleegd; of</li>
+     <li>sprake is van een grote hoeveelheid als bedoeld in artikel 4;</li>
+     <li>het feit in georganiseerd verband wordt gepleegd;</li>
      <li>sprake is van beroeps- of bedrijfsmatig handelen.</li>
    </ol>
 
 ---
 
-## Hoofdstuk VII – Slotbepalingen
+## Hoofdstuk VI – Slotbepalingen
 
-### Artikel 12
+### Artikel 9
 
 Deze wet wordt aangehaald als: Opiumwet Universe (OWU).
