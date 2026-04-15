@@ -6,20 +6,23 @@ site_author: Universe Roleplay
 theme:
   name: material
   language: nl
+  font:
+    text: Merriweather
+    code: JetBrains Mono
   icon:
     logo: material/scale-balance
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
-      accent: indigo
+      primary: blue grey
+      accent: blue
       toggle:
         icon: material/weather-night
         name: Donkere modus inschakelen
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Lichte modus inschakelen
@@ -30,6 +33,7 @@ theme:
     - search.highlight
     - search.suggest
     - toc.follow
+    - content.code.copy
 
 markdown_extensions:
   - tables
